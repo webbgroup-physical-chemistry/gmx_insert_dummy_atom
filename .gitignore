@@ -1,0 +1,6 @@
+read_apbs.tar
+*.xvg
+*.o
+*.xtc
+g_insert_dummy_atom
+*.txt
